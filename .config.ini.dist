@@ -1,0 +1,6 @@
+; Params are not real. Provide real params
+
+[emtel]
+EMTEL_USER = "nadim"
+EMTEL_PASS = "attari"
+EMTEL_SEND_SMS_API_ENDPOINT = "https://mobile.emtel.com/cgi-bin/sendsms"

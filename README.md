@@ -1,2 +1,3 @@
-# emtel-sms
+# Emtel-SMS
+
 Send SMS via Emtel
